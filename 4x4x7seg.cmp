@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-12 BZR 5064)-product   date = Mon 25 Aug 2014 04:44:36 AM CDT
+
+BeginCmp
+TimeStamp = /53FB00B4;
+Reference = A1;
+ValeurCmp = AdaFruit_HT16K33;
+IdModule  = NTH_PTH DIL:DIP-28__700;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAF96C;
+Reference = DS1;
+ValeurCmp = BubbleDisp;
+IdModule  = NTH_PTH DIL:DIP-12__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAF9A0;
+Reference = DS2;
+ValeurCmp = BubbleDisp;
+IdModule  = NTH_PTH DIL:DIP-12__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAF9DA;
+Reference = DS3;
+ValeurCmp = BubbleDisp;
+IdModule  = NTH_PTH DIL:DIP-12__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FAFA05;
+Reference = DS4;
+ValeurCmp = BubbleDisp;
+IdModule  = NTH_PTH DIL:DIP-12__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FB0ADC;
+Reference = J1;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FB127A;
+Reference = J2;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+EndListe
